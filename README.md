@@ -1,0 +1,2 @@
+# AzureDecodeInferenceResult
+Testing Azure function 
